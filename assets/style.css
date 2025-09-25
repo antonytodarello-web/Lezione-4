@@ -1,0 +1,14 @@
+.barca{
+    text-align: center;
+    border: 1px; 
+    background-color: aqua;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.bottiglia{
+    width: auto;
+    height: auto;
+    background-image:url(https://www.google.com/imgres?q=sfondo&imgurl=https%3A%2F%2Fimg.freepik.com%2Fvettori-gratuito%2Fpriorita-bassa-di-struttura-dell-acquerello-color-arcobaleno-pastello_1048-17703.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fit.freepik.com%2Ffoto-vettori-gratuito%2Fsfondo&docid=6U81s2pB-jRNiM&tbnid=5yC4u3D7z-7hjM&vet=12ahUKEwjHjLabl_SPAxWJRfEDHS5OA2MQM3oECBIQAA..i&w=740&h=1044&hcb=2&ved=2ahUKEwjHjLabl_SPAxWJRfEDHS5OA2MQM3oECBIQAA);
+}
